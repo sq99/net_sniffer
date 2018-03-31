@@ -4,7 +4,6 @@ import sys
 import re
 import threading
 from scapy.all import *
-# from scapy.arch.windows.compa import *
 import Tkinter as tk
 
 
